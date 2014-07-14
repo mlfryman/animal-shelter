@@ -1,0 +1,23 @@
+{
+  "name": "animal-shelter",
+  "version": "0.0.0",
+  "description": "object oriented animal shelter",
+  "main": "app/app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlfryman/animal-shelter"
+  },
+  "author": "Melanie Fryman",
+  "license": "MIT",
+  "homepage": "https://github.com/mlfryman/animal-shelter",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.4.0"
+  }
+}
